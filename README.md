@@ -15,4 +15,4 @@ This repository contains all the files and output of an embedded ML model which 
 
 Drop an email at -> fatimaehsan001@gmail.com incase you have any sort of queries.
 To get some deep knowledge about Edge Impulse, I'd suggest this course -> https://www.coursera.org/learn/introduction-to-embedded-machine-learning
-@ShawnHymel taught some great stuff in the above given course.
+
